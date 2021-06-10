@@ -10,7 +10,15 @@ import pandas as pd
 
 
 # In[2]:
+'''ALL THESE WORKS ARE DONE BY 
 
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com'''
 
 #1ST--->SERIES
 #2ND--->DATAFRAME
