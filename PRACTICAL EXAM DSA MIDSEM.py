@@ -2,7 +2,15 @@
 # coding: utf-8
 
 # In[1]:
+'''ALL THESE WORKS ARE DONE BY 
 
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com'''
 
 b_num = list(input("Input a binary number: "))
 value = 0
