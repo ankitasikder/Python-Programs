@@ -1,6 +1,6 @@
 # Python-Programs :open_mouth: :sunglasses: :facepunch:
 
-[![Generic badge]()](https://shields.io/) 
+[![Generic badge](https://img.shields.io/badge/python-programming-blue)](https://shields.io/) 
 
 ***This repository of PYTHON PROGRAMS is created by Ankita Sikder, student of BTECH, in University of Engineering and Management, Kolkata.***
 
