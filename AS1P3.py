@@ -10,3 +10,12 @@ elif year % 400 ==0:
     print(year, "is a Leap Year")
 else:
     print(year, "is not a Leap Year")
+"""ALL THESE WORKS ARE DONE BY 
+
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com"""
